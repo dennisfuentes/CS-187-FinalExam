@@ -11,14 +11,14 @@ Umass Boston Logo: https://www.umb.edu/timeline/images/umass_logo_white_200px.pn
 
 Hyperlink citations:
 
-LiverPool International Acedemy: https://lfcinternationalacademyma.com/
+Liverpool International Academy: https://lfcinternationalacademyma.com/
 
-Bellingham Mass. High School: https://bhs.bellinghamk12.org/
+Bellingham High School: https://bhs.bellinghamk12.org/
 
-WPI: https://www.wpi.edu/
+Worcester Polytechnical Institute of Technology: https://www.wpi.edu/
 
-Umass Boston: https://www.umb.edu/
+Suffolk University: https://www.suffolk.edu/
 
-Wentworth:https://wit.edu/
+Wentworth Institute of technology:https://wit.edu/
 
-Suffolk: https://www.suffolk.edu/
+University of Massachusetts Boston: https://www.umb.edu/
