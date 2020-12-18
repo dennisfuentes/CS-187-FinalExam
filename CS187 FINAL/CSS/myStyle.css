@@ -1,0 +1,56 @@
+
+a:visited {
+  color: antiquewhite;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+
+body {
+    background-image: url(blue.jpg);
+    background-repeat : no-repeat;
+    background-size : cover
+    }
+#gradphoto{
+    height: 25%;
+    right: 10px;
+    position: absolute;
+    top: 28%;
+    width: 12%
+    
+    
+}
+h1 {
+    color: antiquewhite;
+    font-family: "Lucida handwriting";
+    font-size: 35px;
+    text-align: center;  
+    }
+h2{
+    color: antiquewhite;
+    font-family: "Lucida handwriting";
+    font-size: 25px;
+    margin: 1%;
+    text-align: center;
+}
+
+#logo{
+    left: 10px;
+    position: absolute;
+    top: 15;
+}
+
+p{
+    color: antiquewhite;
+    font-size: 20px;
+    margin-left: 12%;
+    margin-right: 12%;
+    text-align: left;
+}
+
